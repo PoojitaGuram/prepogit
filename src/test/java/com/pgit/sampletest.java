@@ -8,11 +8,10 @@ public class sampletest {
 	{
 		System.out.println("--hello--");
 	}
-	
-	@Test
 	public void test2()
 	{
-		System.out.println("--hi----TEam");
+		
+		System.out.println("--hi--");
 	}
 
 }
