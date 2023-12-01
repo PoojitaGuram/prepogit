@@ -10,6 +10,7 @@ public class sampletest {
 	}
 	public void test2()
 	{
+		
 		System.out.println("--hi--");
 	}
 
