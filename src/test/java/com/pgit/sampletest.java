@@ -8,5 +8,9 @@ public class sampletest {
 	{
 		System.out.println("--hello--");
 	}
+	public void test2()
+	{
+		System.out.println("--hi--");
+	}
 
 }
